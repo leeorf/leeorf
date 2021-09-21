@@ -5,7 +5,7 @@
 ### Hello World, how are you? 👋
 #### I am an aspiring software engineer. 
 
-- 👨🏾‍💻 **Front-end** developer at Protech Solutions, mainly working with **React**.
+- 👨🏾‍💻 **Front-end** developer at Havan Labs, working with **React** and **.NET**.
 - 📺 I've worked as a junior **Mobile Developer**, mainly working with **React Native** and **NodeJS**.
 - 📚 Currently learning 
   - How to write cleaner and more maintainable **React** code
