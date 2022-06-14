@@ -1,6 +1,6 @@
 ## 👨🏾‍💻 Leo Rodrigues
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardorodriguesf/)](https://www.linkedin.com/in/leonardorodriguesf/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leorodrigues@leeorf.dev)](mailto:leorodrigues@leeorf.dev)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leo.rf.dev@gmail.com)](mailto:leo.rf.dev@gmail.com)
 
 ### Hello World, how are you? 👋
 #### I am an aspiring software engineer. 
