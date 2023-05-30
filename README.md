@@ -5,15 +5,12 @@
 ### Hello World, how are you? 👋
 #### I am an aspiring software engineer. 
 
-- 👨🏾‍💻 **Front-end** developer at Havan Labs, working with **React** and **.NET**.
-- 📺 I've worked as a junior **Mobile Developer**, mainly working with **React Native** and **NodeJS**.
-- 📚 Currently learning 
-  - How to write cleaner and more maintainable **React** code
-  - **ASP NET MVC5**
-- 💻 **React Native**, **Node.js**, **React.js**,  **Javascript**, **TypeScript** and more.
+- 👨🏾‍💻 **Front-end** developer at Bees/AB Inbev, working with **React** and some cool front end stuff (like microfrontends);
+- I've helped my team to build a design system from scratch @ Havan Labs (my previous company);
+- 📺 I've worked as a junior **Mobile Developer**, mainly working with **React Native** and **NodeJS**;
 
 - ❓ Facts about me: 
-  - I was graduated in Electrical Engineering 🔌
+  - I have bachelors in Electrical Engineering 🔌
   - Addicted to electronic music 🎧
-  - Naruto, Nanatsu no Taizai and Harry Potter fan 📺
-  - Seriously, I am a huge fan of Naruto, actually I have Kurama tattooed on my forearm 🦊
+  - Naruto, Nanatsu no Taizai and likely Kimetsu No Yaiba (still watching/reading) fan 📺
+  - Seriously, I am a huge Naruto fan. Actually I have a Kurama tatto on my forearm 🦊
